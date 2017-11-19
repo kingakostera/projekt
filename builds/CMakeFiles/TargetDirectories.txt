@@ -1,0 +1,3 @@
+D:/POMWJO/projekt/builds/CMakeFiles/Segmentacja.dir
+D:/POMWJO/projekt/builds/CMakeFiles/ALL_BUILD.dir
+D:/POMWJO/projekt/builds/CMakeFiles/ZERO_CHECK.dir
